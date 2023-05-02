@@ -1,7 +1,7 @@
 {
     "name": "com.jl-randazzo.stackdatastructures",
     "displayName": "StackDataStructures",
-    "version": "0.1.00",
+    "version": "0.1.0",
     "unity": "2019.2",
     "description": "A collection of optimized data structures that can be used without any managed allocations.",
     "keywords": ["DataStructures", "Optimization"],
