@@ -27,7 +27,7 @@ namespace SDS
         /// <param name="span"></param>
         /// <param name="comparer"></param>
         /// <returns></returns>
-        public static T FindMedianDetructive<T>(Span<T> span, IComparer<T> comparer = null)
+        public static T FindMedianDestructive<T>(Span<T> span, IComparer<T> comparer = null)
         {
             if (comparer == null)
             {
